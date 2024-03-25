@@ -2392,12 +2392,6 @@
 		)
 	)
 	(junction
-		(at 81.28 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "00d00fe1-06d5-41d8-b4ef-e00776f03dcf")
-	)
-	(junction
 		(at 238.76 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2408,12 +2402,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "037aefeb-e6d7-463e-9c19-1fb42219cce8")
-	)
-	(junction
-		(at 187.96 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "075755d6-e0da-4f57-9593-a1e2404ec375")
 	)
 	(junction
 		(at 81.28 55.88)
@@ -2566,12 +2554,6 @@
 		(uuid "58dd3881-757a-4ca1-8e06-4f0e699c680b")
 	)
 	(junction
-		(at 213.36 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5be3476a-fe26-4ada-8e63-9b269c1c9bc4")
-	)
-	(junction
 		(at 60.96 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2632,12 +2614,6 @@
 		(uuid "74bd1701-d6db-4595-9369-ff422af93e30")
 	)
 	(junction
-		(at 81.28 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7a6cfe72-c572-4f27-8f03-656430b23833")
-	)
-	(junction
 		(at 137.16 16.51)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2668,22 +2644,10 @@
 		(uuid "84bb2d49-7c20-4608-91c8-2d88309fc9b9")
 	)
 	(junction
-		(at 86.36 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "85fcbf0d-d0a0-4253-bb6e-60567ebcd447")
-	)
-	(junction
 		(at 187.96 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "86c96fa6-6739-4138-bfc1-0fee58964a3e")
-	)
-	(junction
-		(at 187.96 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "87aa7893-00b0-4259-9b6e-cd6559ef0e53")
 	)
 	(junction
 		(at 54.61 68.58)
@@ -2830,12 +2794,6 @@
 		(uuid "d7b36240-99bc-437f-857f-5bd475097a35")
 	)
 	(junction
-		(at 213.36 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0ac8202-e5c5-4b93-a05e-1545d4cead99")
-	)
-	(junction
 		(at 54.61 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2858,12 +2816,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e58cf35d-b825-482d-99c9-6750959b907b")
-	)
-	(junction
-		(at 86.36 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e823d4f7-15b0-4baa-9819-1528eec59a93")
 	)
 	(junction
 		(at 21.59 96.52)
@@ -3049,16 +3001,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 129.54) (xy 238.76 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bc07b29-6659-4f7b-b606-c3a6e2ad2eca")
-	)
-	(wire
-		(pts
 			(xy 162.56 57.15) (xy 187.96 57.15)
 		)
 		(stroke
@@ -3069,7 +3011,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 121.92) (xy 180.34 121.92)
+			(xy 170.18 121.92) (xy 231.14 121.92)
 		)
 		(stroke
 			(width 0)
@@ -3489,23 +3431,13 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 88.9) (xy 76.2 88.9)
+			(xy 76.2 88.9) (xy 95.25 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4897c474-f962-4009-a309-76b255242b1a")
-	)
-	(wire
-		(pts
-			(xy 195.58 121.92) (xy 205.74 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c54878f-49eb-4166-b062-aa3a1d06e0e1")
 	)
 	(wire
 		(pts
@@ -3546,16 +3478,6 @@
 			(type default)
 		)
 		(uuid "4e3fd5f1-26e0-4e38-8147-9d5fb54bb47e")
-	)
-	(wire
-		(pts
-			(xy 187.96 114.3) (xy 213.36 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f3b6f23-9915-4920-a73b-2a1090439b1a")
 	)
 	(wire
 		(pts
@@ -3649,7 +3571,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 129.54) (xy 187.96 129.54)
+			(xy 162.56 129.54) (xy 238.76 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3729,16 +3651,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 55.88) (xy 81.28 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bd17a9d-9c29-4c7c-9fea-6d4d00df933c")
-	)
-	(wire
-		(pts
 			(xy 36.83 96.52) (xy 36.83 116.84)
 		)
 		(stroke
@@ -3749,7 +3661,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 76.2) (xy 81.28 96.52)
+			(xy 81.28 55.88) (xy 81.28 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3859,16 +3771,6 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 96.52) (xy 81.28 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "848d5824-15b8-462e-a04a-1246933e9da0")
-	)
-	(wire
-		(pts
 			(xy 144.78 121.92) (xy 154.94 121.92)
 		)
 		(stroke
@@ -3886,16 +3788,6 @@
 			(type default)
 		)
 		(uuid "88749eaf-64b7-47bd-8991-8fb4920e7de8")
-	)
-	(wire
-		(pts
-			(xy 95.25 109.22) (xy 86.36 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a43d6da-5a7b-424c-971b-171cb5216d45")
 	)
 	(wire
 		(pts
@@ -3959,7 +3851,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 114.3) (xy 187.96 114.3)
+			(xy 162.56 114.3) (xy 238.76 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4099,36 +3991,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 114.3) (xy 238.76 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a757dc20-602f-4cfc-b4ba-9caeb99ff7de")
-	)
-	(wire
-		(pts
-			(xy 95.25 88.9) (xy 86.36 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a90af49f-a689-4806-aace-ac6a6f8a9193")
-	)
-	(wire
-		(pts
-			(xy 187.96 129.54) (xy 213.36 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a98a4c3b-bc34-4d4a-a0fc-2b834f06c872")
-	)
-	(wire
-		(pts
 			(xy 124.46 41.91) (xy 137.16 41.91)
 		)
 		(stroke
@@ -4166,16 +4028,6 @@
 			(type default)
 		)
 		(uuid "adc69000-efa6-4de6-a155-a1d9fc0a8460")
-	)
-	(wire
-		(pts
-			(xy 220.98 121.92) (xy 231.14 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aec4d015-e67f-4fd8-a523-87d812b18b6f")
 	)
 	(wire
 		(pts
@@ -4449,7 +4301,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 109.22) (xy 76.2 109.22)
+			(xy 76.2 109.22) (xy 95.25 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5614,7 +5466,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u_90deg"
 			(at 83.82 58.42 0)
 			(effects
 				(font
@@ -6534,83 +6386,6 @@
 			(project "test"
 				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
 					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dumbpad_lib:SK6812MINI_1")
-		(at 213.36 121.92 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "249620da-46b3-4edf-a622-0617a0281016")
-		(property "Reference" "LED20"
-			(at 200.66 116.4238 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI"
-			(at 200.66 118.9638 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 214.63 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 215.9 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 213.36 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ce3e3c0c-821a-457e-bd6d-424c89a0d1c2")
-		)
-		(pin "2"
-			(uuid "ebfaf8bd-f3db-4d67-9dd9-f02e33db79a5")
-		)
-		(pin "3"
-			(uuid "d78c1cb3-8186-418f-b623-8200b7ec0259")
-		)
-		(pin "4"
-			(uuid "809d589c-1755-4d12-b0a1-6aa6cf5cf4c3")
-		)
-		(instances
-			(project "test"
-				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
-					(reference "LED20")
 					(unit 1)
 				)
 			)
@@ -8656,74 +8431,6 @@
 		)
 	)
 	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 83.82 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "75ab4ccc-597d-4f1e-9c18-653d6ddcba5a")
-		(property "Reference" "S15"
-			(at 83.82 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 83.82 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 83.82 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 83.82 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 83.82 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "300f1eac-7da2-4a12-8775-3cb0ac191dcc")
-		)
-		(pin "1"
-			(uuid "d2b51b04-ba91-4a16-bf9a-0cbf2efd1bfc")
-		)
-		(instances
-			(project "test"
-				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
-					(reference "S15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "ScottoKeebs:Placeholder_Diode")
 		(at 54.61 64.77 90)
 		(unit 1)
@@ -9090,7 +8797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
+		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_2.00u_90deg"
 			(at 83.82 119.38 0)
 			(effects
 				(font
@@ -9416,151 +9123,6 @@
 			(project "test"
 				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
 					(reference "LED2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "dumbpad_lib:SK6812MINI_1")
-		(at 187.96 121.92 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d2d9d8c-05cf-4378-9692-1bac6bbadee4")
-		(property "Reference" "LED15"
-			(at 175.26 116.4238 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SK6812MINI"
-			(at 175.26 118.9638 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
-			(at 189.23 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
-			(at 190.5 112.395 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 187.96 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4f4967af-9b17-420e-b2df-2e9007b6f1e6")
-		)
-		(pin "2"
-			(uuid "c30a5815-a5bd-484d-97f4-d0c94c8a0c4a")
-		)
-		(pin "3"
-			(uuid "001b704a-e7f5-46ec-930c-c8e6a6530c48")
-		)
-		(pin "4"
-			(uuid "ef872e2e-751f-4063-8260-8e12253ec2bd")
-		)
-		(instances
-			(project "test"
-				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
-					(reference "LED15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Keyswitch")
-		(at 83.82 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8e8ead54-71ad-4cd0-b8b7-3467ebc53071")
-		(property "Reference" "S20"
-			(at 83.82 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Keyswitch"
-			(at 83.82 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_1.00u"
-			(at 83.82 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 83.82 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 83.82 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "1c51b04e-ff76-4acb-b582-4dec01ae92d9")
-		)
-		(pin "1"
-			(uuid "9abc5661-7b95-4e73-a2d6-82c1ef426f83")
-		)
-		(instances
-			(project "test"
-				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
-					(reference "S20")
 					(unit 1)
 				)
 			)
@@ -10188,94 +9750,6 @@
 			(project "test"
 				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
 					(reference "LED21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 86.36 85.09 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a36995d5-79aa-492a-b1eb-47b62f1e5595")
-		(property "Reference" "D15"
-			(at 88.9 83.8199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Diode"
-			(at 88.9 86.3599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 86.36 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 86.36 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 86.36 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 86.36 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "87cea416-18fa-4f4e-b5c2-d1aee13ce35c")
-		)
-		(pin "2"
-			(uuid "ac7a321f-5886-45b4-8401-6f9e47ad073a")
-		)
-		(instances
-			(project "test"
-				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
-					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -11667,94 +11141,6 @@
 			(project "test"
 				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
 					(reference "LED22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ScottoKeebs:Placeholder_Diode")
-		(at 86.36 105.41 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d1805a31-3880-4b42-a856-0cb75a6df1b9")
-		(property "Reference" "D20"
-			(at 88.9 104.1399 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Diode"
-			(at 88.9 106.6799 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "ScottoKeebs_Components:Diode_DO-35"
-			(at 86.36 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "1N4148 (DO-35) or 1N4148W (SOD-123)"
-			(at 86.36 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 86.36 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 86.36 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb9f2ab2-594e-446e-9973-c75def6a6cdd")
-		)
-		(pin "2"
-			(uuid "0e1f1025-d937-4c1d-a428-aaa07d83a6aa")
-		)
-		(instances
-			(project "test"
-				(path "/b1e2e562-5480-4133-8756-e53b24a1d3e0"
-					(reference "D20")
 					(unit 1)
 				)
 			)
